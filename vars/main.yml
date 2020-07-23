@@ -38,7 +38,7 @@ homebrew_cask_apps:
   - spotify
   - slack
   - tunnelblick
-
+  
 dockitems_to_remove:
   - Launchpad
   - Mail

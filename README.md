@@ -27,6 +27,8 @@ For installation:
 ## Current Manual Setup
 
 - Tunnel Blick (VPN)
+- id_rsa (with passphrase)
+- Docker Desktop on Mac https://docs.docker.com/docker-for-mac/install/
 
 
 #### Tunnelblick
@@ -34,8 +36,40 @@ For installation:
 https://gitlab.datacomp-intranet.com/system/awesomeness/-/wikis/vpn/vpn-tips
 https://tunnelblick.net/downloads
 
+- get keys and config from john
+
+## Needs testing
+
+- brew cask install keeweb
+- brew cask install mysqlworkbench
+
+## Missing
+
+- postman
+- ring central
 
 ## Undecided
 
 - virtual box
 - munki
+
+## Standard Computer setup
+
+## Developer Computer setup
+
+* mkdir ~/development && cd development
+  * this is where all projects go
+
+### Docker Config
+
+#### minimum resources
+
+* Ram: 4 Gb
+* Cpu: 4 Cpu
+* Hard Drive: 64 Gb
+
+#### recommended for full stck
+
+* Ram: 8 Gb
+* Cpu: 8 Cpu
+* Hard Drive: 128 Gb
