@@ -30,7 +30,6 @@ For installation:
 - id_rsa (with passphrase)
 - Docker Desktop on Mac https://docs.docker.com/docker-for-mac/install/
 
-
 #### Tunnelblick
 
 https://gitlab.datacomp-intranet.com/system/awesomeness/-/wikis/vpn/vpn-tips
@@ -42,16 +41,6 @@ https://tunnelblick.net/downloads
 
 - brew cask install keeweb
 - brew cask install mysqlworkbench
-
-## Missing
-
-- postman
-- ring central
-
-## Undecided
-
-- virtual box
-- munki
 
 ## Standard Computer setup
 
